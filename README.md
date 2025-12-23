@@ -1,6 +1,7 @@
 <div style="background-color:red">
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Aissa</h1>
+<img align="center" width="700" src="https://sl.bing.net/kWDwZDWb85Q"/>
 <h3 align="center">A passionate frontend developer from Algiers</h3>
 
 - 📫 How to reach me **aftisaissa37@gmail.com**
