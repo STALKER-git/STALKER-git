@@ -5,9 +5,7 @@
 <del>《天使降临到了我身边》忠实粉丝 | 小花厨 <del>
 
 <picture width="70" align="right" title="Avatar">
-  <source srcset="./assets/avatar-round.png" title="Avatar" />
-  <source srcset="https://thypix.com/en/anime-profile-pictures/" title="Avatar" />
-  <img align="right" src="https://thypix.com/en/anime-profile-pictures/" width="70" title="Avatar" />
+  <img align="right" src="https://thypix.com/en/anime-profile-pictures/" width="70" style="border-radius:50%" title="Avatar" />
 </picture>
 
 [PGP public key](https://github.com/xiyang6666.gpg)
