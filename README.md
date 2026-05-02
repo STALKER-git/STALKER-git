@@ -47,3 +47,11 @@
 # 主页访问量
 
 ![:name](https://count.getloli.com/@:xiyang6666)
+<picture align="center" title="GitHub contribution grid snake animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg" />
+  <!-- Mirror -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/lingbopro/lingbopro/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg" />
+</picture>
