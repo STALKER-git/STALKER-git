@@ -50,7 +50,7 @@
 
 # SPEED TYPING
 <div>
-  <img src="" />
+  <img src="Screenshot 2026-05-02 095030.png" height="150px"  />
 </div>
 <picture align="center" title="GitHub contribution grid snake animation">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake-dark.svg" />
