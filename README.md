@@ -1,21 +1,45 @@
-<div style="background-color:red">
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm 阿夫提斯·艾萨</h1>
-<img align="center" width="700" src="https://sl.bing.net/kWDwZDWb85Q"/>
-<h3 align="center">A passionate frontend developer from China</h3>
+# 👋 你好，阿夫提斯·艾萨 / aissa tf0.1
 
-- 📫 How to reach me **aftisaissa37@gmail.com**
+🎓 一名普通的高中生 | 🐍 Python 新手 | ⚡ Minecraft 插件开发小白
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aftis aissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftis aissa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cyberx tiflo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberx tiflo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aissa" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aissacc10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aissacc10" height="30" width="40" /></a>
-<a href="https://discord.gg/Stalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Stalker" height="30" width="40" /></a>
-</p>
-<img algin="right" width="700" src="https://images2.alphacoders.com/138/thumb-1920-1381020.png"/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-</div>
-  
+<del>《天使降临到了我身边》忠实粉丝 | 小花厨 <del>
+
+[PGP public key](https://github.com/xiyang6666.gpg)
+
+[![个人主页](https://img.shields.io/badge/Homepage-xiyang6666.top-2B7489?style=flat-square&logo=nuxt)](https://www.xiyang6666.top)
+[![技术博客](https://img.shields.io/badge/Blog-blog.xiyang6666.top-2B7489?style=flat-square&logo=hexo)](https://blog.xiyang6666.top)
+[![粉丝站](https://img.shields.io/badge/Fansite-shirosakihana.moe-2B7489?style=flat-square&logo=nuxt)](https://shirosakihana.moe)
+[![镜像站](https://img.shields.io/badge/Mirror-mirror.shirosakihana.moe-2B7489?style=flat-square&logo=nuxt)](https://mirror.shirosakihana.moe)
+
+[![GitHub](https://img.shields.io/github/followers/XiYang6666?label=Follow%20Me&style=social)](https://github.com/XiYang6666)
+[![wakatime](https://wakatime.com/badge/user/7404855f-ae61-4ff6-9fd5-68ffcd98424d.svg?style=flat-square)](https://wakatime.com/@7404855f-ae61-4ff6-9fd5-68ffcd98424d)
+
+## 统计
+
+<table>
+  <tr>
+    <td>
+      <a href="https://wakatime.com/@XiYang6666">
+        <img
+          width=450
+          src="https://fbik-github-readme-stats.vercel.app/api/wakatime?username=XiYang6666&layout=compact&hide_border=false&bg_color=00000000"
+          />
+      </a>
+    </td>
+    <td>
+      <img
+         width=450
+        src="https://fbik-github-readme-stats.vercel.app/api?username=XiYang6666&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=00000000"
+      />
+      <p/>
+      <img
+        width=450
+        src="https://fbik-github-readme-stats.vercel.app/api/top-langs/?username=XiYang6666&layout=donut&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=00000000"
+        />
+    </td>
+  </tr>
+</table>
+
+# 主页访问量
+
+![:name](https://count.getloli.com/@:xiyang6666)
