@@ -47,6 +47,11 @@
 # 主页访问量
 
 ![:name](https://count.getloli.com/@:xiyang6666)
+
+# SPEED TYPING
+<div>
+  <img src="" />
+</div>
 <picture align="center" title="GitHub contribution grid snake animation">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lingbopro/lingbopro/output/github-contribution-grid-snake.svg" />
